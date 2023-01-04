@@ -1,0 +1,38 @@
+h1{
+    text-decoration: underline;
+    color:rgb(253, 8, 192);
+    text-shadow: 5px 5px 5px rgb(227, 247, 8);
+    
+    font-weight: bold;
+}
+
+body{
+    background-image: url('C:/Users/saran Bhoopathy/OneDrive/Pictures/BOOK IMAGE.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+form{
+    float:right;
+    margin-top:150px;
+margin-right: 200px;
+}
+td{
+    padding:20px;
+    color: blue;
+    font-size: 30px;
+    font-weight: bold;
+}
+#select{
+    font-size: 20px;
+    font-weight: bold;
+    color:rgba(154, 154, 171, 0.977);
+    box-shadow: 5px 5px 5px red;
+}
+#sel{
+    color: blue;
+    background-color: green;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
